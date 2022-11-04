@@ -1,5 +1,4 @@
-<p align = "center" > Group 1 
-</p>
+![messagif](https://github.com/Ozzie-code-alt/group_1_task/blob/master/messagif.gif)
 
 # Project Name
 - Github Project
