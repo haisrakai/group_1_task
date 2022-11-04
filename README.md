@@ -1,7 +1,7 @@
 Group 1 
 
 #Project Name // dito rin
-- 
+- Github Project
 
 #Project Description // you guys add something here 
 -
