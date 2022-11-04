@@ -11,3 +11,6 @@ Group 1
 - Joshua Llante
 - Gavin Matthew Caalem
 - Justin Santos
+
+###Codes
+` git init `
