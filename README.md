@@ -1,13 +1,13 @@
-<p align = "center" > # Group 1 
+<p align = "center" > Group 1 
 </p>
 
 # Project Name
 - Github Project
 
 # Project Description
--
+- Try out github Commands 
 
-#Project Members 
+# Project Members 
 - Shye Kyra Custodio
 - Joshua Llante
 - Gavin Matthew Caalem
