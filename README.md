@@ -25,3 +25,5 @@
 - [x] ` git remote add origin https://github.com/haisrakai/group_1_task.git `
 
 - [x] ` git push -u origin main `
+
+[^ Note from Dev]: Made with Love.
