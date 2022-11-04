@@ -7,7 +7,7 @@ Group 1
 -
 
 #Project Members 
-- 
--
+- Shye Kyra Custodio
+- Joshua Llante
 - Gavin Matthew Caalem
 - Justin Santos
