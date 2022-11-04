@@ -1,4 +1,5 @@
-Group 1 
+<p align = "center" >**Group 1** 
+</p>
 
 #Project Name
 - Github Project
