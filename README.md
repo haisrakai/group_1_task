@@ -1,10 +1,10 @@
-<p align = "center" > #Group 1 
+<p align = "center" > # Group 1 
 </p>
 
-#Project Name
+# Project Name
 - Github Project
 
-#Project Description
+# Project Description
 -
 
 #Project Members 
