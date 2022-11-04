@@ -12,7 +12,7 @@ Group 1
 - Gavin Matthew Caalem
 - Justin Santos
 
-###Codes
+** Git Commands for cloning a repo **
 
 ` git init `
 
