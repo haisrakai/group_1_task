@@ -1,9 +1,9 @@
 Group 1 
 
-#Project Name // dito rin
+#Project Name
 - Github Project
 
-#Project Description // you guys add something here 
+#Project Description
 -
 
 #Project Members 
