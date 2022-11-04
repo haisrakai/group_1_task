@@ -15,14 +15,14 @@
 
 **Git Commands for cloning a repo**
 
-- [ ] ` git init `
+- [x] ` git init `
 
 - [x] ` git add README.md `
 
-` git commit -m "first commit" `
+- [x] ` git commit -m "first commit" `
 
-` git branch -M main `
+- [x] ` git branch -M main `
 
-` git remote add origin https://github.com/haisrakai/group_1_task.git `
+- [x] ` git remote add origin https://github.com/haisrakai/group_1_task.git `
 
-` git push -u origin main `
+- [x] ` git push -u origin main `
