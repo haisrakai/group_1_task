@@ -15,9 +15,9 @@
 
 **Git Commands for cloning a repo**
 
-- [] ` git init `
+- [ ] ` git init `
 
-- [] ` git add README.md `
+- [x] ` git add README.md `
 
 ` git commit -m "first commit" `
 
