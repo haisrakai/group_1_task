@@ -4,7 +4,7 @@
 - Github Project
 
 # Project Description <!-- Make something up Lmao -->
-- Try out github Commands 
+- Try out github Commands. 
 
 # Project Members  <!-- Members -->
 - Shye Kyra Custodio
